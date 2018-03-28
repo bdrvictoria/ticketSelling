@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\tema1\tema1\obj\Debug\tema1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\tema1\tema1\obj\Debug\tema1.Properties.Resources.resources
+C:\Users\user\Desktop\tema1\tema1\obj\Debug\conference.Administrator.resources
+C:\Users\user\Desktop\tema1\tema1\obj\Debug\conference.Cashiers.resources
+C:\Users\user\Desktop\tema1\tema1\obj\Debug\conference.UI.CashiersCRUD.resources
+C:\Users\user\Desktop\tema1\tema1\obj\Debug\tema1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\tema1\tema1\obj\Debug\tema1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\tema1\tema1\bin\Debug\tema1.exe.config
+C:\Users\user\Desktop\tema1\tema1\bin\Debug\tema1.exe
+C:\Users\user\Desktop\tema1\tema1\bin\Debug\tema1.pdb
+C:\Users\user\Desktop\tema1\tema1\obj\Debug\tema1.exe
+C:\Users\user\Desktop\tema1\tema1\obj\Debug\tema1.pdb
+C:\Users\user\Desktop\tema1\tema1\obj\Debug\conference.UI.Login.resources
+C:\Users\user\Desktop\tema1\tema1\obj\Debug\tema1.UI.RaportCrud.resources
+C:\Users\user\Desktop\tema1\tema1\obj\Debug\tema1.UI.ticketsCrud.resources
+C:\Users\user\Desktop\tema1\tema1\obj\Debug\tema1.UI.SellsCashier.resources
+C:\Users\user\Desktop\tema1\tema1\obj\Debug\tema1.UI.ShowHistory.resources
